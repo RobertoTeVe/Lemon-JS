@@ -1,0 +1,12 @@
+src/node_modules
+src/dist
+src/mongo-data
+src/.editorconfig
+src/.env
+src/.env.example
+src/.env.test
+src/.gitignore
+src/create-dev-env.sh
+src/docker-compose.yml
+src/globalConfig.json
+src/jest-mongodb-config.js
